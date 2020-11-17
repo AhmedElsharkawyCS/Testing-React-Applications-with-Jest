@@ -3,7 +3,7 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import Container from "@material-ui/core/Container";
 import { makeStyles } from "@material-ui/core/styles";
 import { Switch, Route } from "react-router-dom";
-import Spinner from "../components/common/Spinner";
+import Spinner from "../components/Common/Spinner";
 import { AppRoutes } from "../routes";
 import { IRoute } from "../types/Route";
 

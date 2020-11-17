@@ -17,7 +17,7 @@ import Alert from "@material-ui/lab/Alert";
 import { getFirstCharFromString } from "../../../utils/Strings";
 import { coursesData } from "../../../data";
 import { ICourseItem } from "../../../types/Course";
-import Spinner from "../../common/Spinner";
+import Spinner from "../../Common/Spinner";
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
